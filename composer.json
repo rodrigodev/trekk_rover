@@ -1,0 +1,24 @@
+{
+    "name": "rodrigodev/trekk_rover",
+    "description": "Ground Control",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodrigo Carneiro",
+            "email": "rodrigo_carneiro@ymail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TrekkRover\\": ["src/"]
+        }
+    },
+    "require": {
+        "php": "^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9",
+        "phpstan/phpstan": "^0.12.48"
+    }
+}
