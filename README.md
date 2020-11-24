@@ -1,4 +1,5 @@
 # TrekkRover
+A Space Rover Challenge
 
 ## Dependencies
 * PHP ^7.4
